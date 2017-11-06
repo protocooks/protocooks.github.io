@@ -14,10 +14,10 @@ title: 'protocooks'
 slogan: 'slogan'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'description'
+description: 'ProtoCooks featuring Chef Frank Proto '
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: 'credits'
+credits: '(c) Copyright 2017 - Frank Proto et al'
 
 # Main author of the website
 # See > authors.yml
@@ -42,7 +42,9 @@ urlimg: 'https://protocooks.github.io/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "protocooks-logo-600x50.png"
+# logo: "protocooks-logo-600x50.png"
+logo: "protocooks-logo-bw-300x110.png"
+small_logo: "protocooks-small-logo-170x25.png"
 # logo: "logo.png"
 
 # Gems
